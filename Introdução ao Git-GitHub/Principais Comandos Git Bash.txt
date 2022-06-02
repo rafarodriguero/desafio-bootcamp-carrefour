@@ -2,4 +2,4 @@ git clone [HTTPS / SSH] - baixar o repositório para sua máquina
 git status - verifica se há alguma alteração não salva
 git add * - atualiza os arquivos e pastas criados/modificados no repositório
 git commit -m "mensagem" - comita as atualizações de arquvios ou pastas
-git push origim [repositório] - Empurra o commit para o GitHub
+git push origin [repositório] - Empurra o commit para o GitHub
