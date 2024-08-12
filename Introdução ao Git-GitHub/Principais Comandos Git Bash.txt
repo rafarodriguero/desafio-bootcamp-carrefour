@@ -3,3 +3,4 @@ git status - verifica se há alguma alteração não salva
 git add * - atualiza os arquivos e pastas criados/modificados no repositório
 git commit -m "mensagem" - comita as atualizações de arquvios ou pastas
 git push origin [repositório] - Empurra o commit para o GitHub
+git remote -v - Verifica para onde está apontado o "Origin"
